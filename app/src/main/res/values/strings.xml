@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的足迹</string>
+
+    <string name="tab_life">一生</string>
+    <string name="tab_today">今日</string>
+    <string name="tab_yesterday">昨日</string>
+    <string name="tab_week">七日</string>
+    <string name="tab_month">此月</string>
+
+    <string name="info_card">今日已记录 %1$d 个轨迹点\n总距离 %2$s 千米</string>
+
+    <string name="privacy_title">服务与隐私说明</string>
+    <string name="privacy_message">欢迎使用「我的足迹」。本应用会每 15 分钟自动记录一次你的位置（精确经纬度），存放在手机本地，用于在地图上连出你一生走过的路。\n\n· 所有位置数据仅保存在你的手机本地，不会上传到任何服务器\n· 地图显示由高德地图 SDK 提供\n· 可随时在系统设置中关闭定位权限来停止记录\n\n点击「同意并继续」表示你已了解并同意上述说明。</string>
+    <string name="privacy_agree">同意并继续</string>
+    <string name="privacy_disagree">不同意</string>
+
+    <string name="no_location_permission">未授予定位权限，足迹将无法自动记录</string>
+
+    <string name="log_title">轨迹日志</string>
+    <string name="log_title_count">轨迹日志 · %1$d 条</string>
+
+    <string name="sport_start">运动模式</string>
+    <string name="sport_stop">停止</string>
+    <string name="sport_confirm_stop_title">结束运动模式</string>
+    <string name="sport_confirm_stop_msg">停止后本段路线仍保留在足迹里，确定结束吗？</string>
+    <string name="sport_card">%1$s 千米 · %2$d 个点\n均速 %3$s km/h</string>
+</resources>

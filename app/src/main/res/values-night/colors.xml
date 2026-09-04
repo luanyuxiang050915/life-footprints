@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="track_line">#4DB6AC</color>
+    <color name="track_dot">#FF6E62</color>
+    <color name="delete_red">#FF8A80</color>
+    <color name="highlight_dot">#FFB300</color>
+    <color name="info_card_bg">#F21A1C1E</color>
+    <color name="info_card_text">#80CBC4</color>
+</resources>

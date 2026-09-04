@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00796B</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_container">#B2DFDB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="track_line">#00796B</color>
+    <color name="track_dot">#E53935</color>
+    <color name="delete_red">#D32F2F</color>
+    <color name="highlight_dot">#FF8F00</color>
+    <color name="ic_launcher_background">#00796B</color>
+    <color name="info_card_bg">#F2FFFFFF</color>
+    <color name="info_card_text">#00695C</color>
+</resources>

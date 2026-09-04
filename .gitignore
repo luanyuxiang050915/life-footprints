@@ -1,0 +1,17 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+.DS_Store
+
+# 工具会话内部文件
+.mimosa/
+.zcode/
+
+# 签名库与安装包：公开仓库不上传（keystore 已本地备份）
+signing/
+*.jks
+*.apk
